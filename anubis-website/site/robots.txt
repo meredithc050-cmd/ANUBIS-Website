@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anubis-audio.pages.dev/sitemap.xml
